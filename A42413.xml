@@ -1,0 +1,248 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A persuasive to the study of the Revelation, or, An exposition of the three first verses of that prophecy wherein 1. There is an account given of the unintelligibleness of the Revelation ... 2. Dr. Hammond's key ... shewn to be a mistaken one. 3. That neither the Doctor himself, nor anyone else in his time, understood the meaning of those passages. 4. That it can proceed from no better cause than injudiciousness or unskilfulness in these mysteries, to take exceptions at our modern Protestant expositions of the Revelation upon the account of novelty / by Wal. Garrett, rector of Everly.</title>
+            <author>Garrett, Walter.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A42413</idno>
+            <idno type="STC">Wing G271</idno>
+            <idno type="STC">ESTC R42043</idno>
+            <idno type="EEBO-CITATION">23283385</idno>
+            <idno type="OCLC">ocm 23283385</idno>
+            <idno type="VID">109526</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A42413)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 109526)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1701:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A persuasive to the study of the Revelation, or, An exposition of the three first verses of that prophecy wherein 1. There is an account given of the unintelligibleness of the Revelation ... 2. Dr. Hammond's key ... shewn to be a mistaken one. 3. That neither the Doctor himself, nor anyone else in his time, understood the meaning of those passages. 4. That it can proceed from no better cause than injudiciousness or unskilfulness in these mysteries, to take exceptions at our modern Protestant expositions of the Revelation upon the account of novelty / by Wal. Garrett, rector of Everly.</title>
+                  <author>Garrett, Walter.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed March, 1698/9, and are to be had (with the rest of the authors tracts) at W. Dotchen's, bookseller ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1699]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In double columns.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Revelation I, 1-3 --  Criticism, interpretation, etc.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:109526:1"/>
+            <p>A <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ERSUASIVE To the STUDY of the REVELATION: OR, An EXPOSITION of the Three firſt Verſes of that PROPHECY.</p>
+            <p>WHEREIN There is an Account given of the <hi>Unintelligibleneſs</hi> of the Revelation <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or a long time, <hi>viz.</hi> Till the Time it ſelf prefixes for the Underſtan<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing of its own Viſions.</p>
+            <p>Dr. <hi>Hammond</hi>'s Key taken from <hi>[things ſhortly to come to paſs]</hi> and <hi>[ſeal not the Prophecy]</hi> is ſhewn to be a miſtaken one.</p>
+            <p>That neither the Doctor himſelf, nor any one elſe in his time, underſtood the meaning of thoſe Paſſages.</p>
+            <p>That it can proceed from no better Cauſe, than Injudiciouſneſs or Un<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>kilfulneſs in theſe Myſteries, to take Exceptions at our Modern Pro<g ref="char:EOLhyphen"/>teſtant Expoſitions of the Revelation, upon the account of Novelty.</p>
+            <p>By <hi>Wal. Garrett,</hi> Rector of <hi>Everly.</hi>
+            </p>
+            <q>
+               <p>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>thing what or what manner of Time the Spirit of Chriſt, which was in them did ſig<g ref="char:EOLhyphen"/>nifie, &amp;c. <g ref="char:V">Ʋ</g>nto whom it was revealed, that not unto themſelves, but unto us they did miniſter.</p> 
+               <bibl>1 Pet. i. 11, 12.</bibl>
+            </q>
+            <q>
+               <p>Science has no Enemy but the Ignorant.</p> 
+               <bibl>Gnom.</bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> 
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>inted <hi>March,</hi> 1698/9. And are to be had (with the reſt of the Authors <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Tracts) at <hi>W. Dotchen</hi>'s, Bookſeller in <hi>Holborn,</hi> over-againſt <hi>Chancery-Lane<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>d;</hi> and at <hi>M. Ball</hi>'s in <hi>Leeſtreet</hi> near <hi>Red Lyon Square.</hi>
+            </p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:109526:2"/>
+            <pb facs="tcp:109526:2"/>
+            <head>The PREFACE.</head>
+            <p>THAT <hi>the Wiſdom of this World is Fooliſhneſs with God,</hi> as <hi>the Wiſ<g ref="char:EOLhyphen"/>dom of God is with the World,</hi> (<hi>1</hi> Cor. <hi>i. 18, 24. iii. 19.</hi>) appears in nothing more than in thoſe great and unjuſtifiable Endeavours, that have been uſed, to keep the Myſteries of this admirable Prophecy in perpetual darkneſs; at the ſame time when the bleſſed Author of it is doing all be can to recommend it to our ſerious and di<g ref="char:EOLhyphen"/>ligent peruſal: He does not ſuffer it to be entit'led the Viſion (or Words) of the <hi>Prophet,</hi> as was uſual in former times (<hi>Iſa. i. 1. Jer. i. 1.</hi>) but the Revelation of <hi>Jeſus Chriſt,</hi> with this notable Addition, <hi>which God gave unto him;</hi> intimating thereby his high eſteem of the Gift, for the Givers ſake. And according<g ref="char:EOLhyphen"/>ly, it is well worth our Obſervation, in what a glorious, as well as graceful form of Words the Dignity of <hi>Opening</hi> (or unfolding) thoſe Divine Myſteries is ſet forth to us, <hi>Rev. v. 1, 2, 3, &amp;c.</hi> But alas! it is but too too evi<g ref="char:EOLhyphen"/>dent, that the Great ones of the world have very far different thoughts of it. Their Objections indeed are civil enough: I wiſh I could ſay; the ſame of their Oppoſitions too. And beſides, I ſhrewdly ſuſpect ſome to make uſe of unlawful Weapons, poyſoned Arrows; theſe I leave to the juſt Judgment of God, who is a true Beholder of all the dark paths they tread. But if any Man has a mind to tra<g ref="char:EOLhyphen"/>verſe the Point fairly with me, I ſhall be ready (by God's Aſſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſtance) to give him a clear and a full Anſwer to all pertinent Allegati<g ref="char:EOLhyphen"/>ons. My Deſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gn at preſent is, to perſwade the Study of the <hi>Revelation</hi> to be worth our while, eſpecially at This time; and to take off the grand Objection, drawn from the <hi>Un<g ref="char:EOLhyphen"/>intelligibleneſs</hi> of it. To which purpoſe I here ſhew, That the <hi>Time</hi> when our bleſſed Saviour deſign'd to have the <hi>Revelation</hi> un<g ref="char:EOLhyphen"/>derſtood, is plainly noted in the Prophecy it ſelf; which is a very conſiderable circum<g ref="char:EOLhyphen"/>ſtance, that no former Expoſitor has been a<g ref="char:EOLhyphen"/>ware of; and which the Reader, I hope, will take notice of, as a good Omen of what may be expected Now, above what is to be met with in any former Interpreter. My Deſign then is, by degrees, as God ſhall enable me, to carry on the Expoſition of the <hi>Re<g ref="char:EOLhyphen"/>velation</hi> to where Mr. <hi>Mede</hi> begun his, <hi>viz.</hi> to the end of the <hi>vth.</hi> Chapter. The <hi>ivth.</hi> and <hi>vth.</hi> I have done in Latin already, to try (before I was engaged too far) what the more learned ſort had to ſay againſt it; which (in point of <hi>Argument</hi>) I do not find to be diſcouraging at all. But I ſee Theſe labour under mighty Prejudices; from which the m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aner ſort of Scholars being free, may pr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>v<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> (for ought I know) as capable of Senſe as they. I am therefore now (good Engliſh Reader) by the Bleſſing of God, preparing for thee a plain Expoſition of the Five firſt Chapters of the <hi>Revelation,</hi> a truly Noble and Divine Prophecy, (never before under<g ref="char:EOLhyphen"/>ſtood by any Man) extending from the Be<g ref="char:EOLhyphen"/>ginning of a Chriſtian Church in <hi>Rome,</hi> to the Times we Now live in. And I pray, take this Sheet of Paper, as a <hi>Specimen</hi> of what may be expected in the following. If you like This, prepare for greater Diſcove<g ref="char:EOLhyphen"/>ries: and I hope this will convince thee, That the Time is now come for that <hi>Bleſſed<g ref="char:EOLhyphen"/>neſs</hi> to him that <hi>Reads</hi> and <hi>Hears,</hi> and <hi>Keeps</hi> (or Obſerves) <hi>this Prophecy, Chap. i. 3.</hi> to take effect; and wherein we may ſafely af<g ref="char:EOLhyphen"/>firm, without a new Revelation, That Chriſt Jeſus will not take it well of thoſe that would obſtruct the Opening of thoſe glorious Myſteries. Let nothing then diſcourage us from lending every one his helping hand to<g ref="char:EOLhyphen"/>wards it. For,</p>
+            <p>
+               <hi>When Man cries, Seal the Book; and God ſays, Not Whoſe Word ſhall ſtand? Man talks he knows not Study it then (good Chriſtian) and depend (what On God's ſure Promiſe for a bleſſed End.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="4" facs="tcp:109526:3"/>
+            <head>A Perſuaſive to the Study of the Revelation, &amp;c.</head>
+            <head>REV. I.</head>
+            <p>Verſ. 1. <hi>THE Revelation of Jeſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s Chriſt, which G<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d gave unto him, to ſhew un<g ref="char:EOLhyphen"/>to his Servants things that muſt ſhortly come to paſs: and he ſent and ſignified</hi> them <hi>by his Angel to his Servant</hi> John. 2 <hi>Who have Record of the Word of God, and of the Teſti<g ref="char:EOLhyphen"/>mony of Jeſus Chriſt, and of all things which he ſaw. Bleſſed is he that readeth, and they that hear the words of this Prophecy</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>and keep</hi> (or obſerve) <hi>theſe things that are written therein; for the Time is at hand.</hi> In which words the Book is Entitled, <hi>The Revelation of Jeſus Chriſt,</hi> that is, The Diſcovery of Future things revealed or made known by Jeſus Chriſt, the Author of the Diſcovery: which Diſcovery he was enabled to make, in vertue of his Divine (not Human) Nature, <hi>Mat.</hi> xxiv. 36. which is the meaning of thoſe Words, <hi>Which God gave unto him.</hi> For hence it is, That with reſpect to his being the Au<g ref="char:EOLhyphen"/>thor of this Prophecy, he ſo often takes upon him the Stile or Title, of the Only True God, <hi>viz. The Firſt and the Laſt,</hi> &amp;c. <hi>Rev.</hi> i. 8, 11, 17: xxii. 13. For this very Title does <hi>Iſaiah</hi> ſet forth as the into n<g ref="char:EOLhyphen"/>municable Attribute of the Only True God, <hi>Iſa.</hi> xli. 4. xliv. 6. xlviii. 12. And hence alſo it is, That Jeſus Chriſt is cal<g ref="char:EOLhyphen"/>led, <hi>The Lord God of the Holy Prophets, Rev.</hi> xxii. 6. <hi>And the Lord God of the Holy Prophets ſent his Angel,</hi> &amp;c. For at verſe 16 of the ſame Chapter, it is ſaid of the ſame Miſſion, and the ſame Meſ<g ref="char:EOLhyphen"/>ſenger, <hi>I Jeſus have ſent mine Angel. Je<g ref="char:EOLhyphen"/>ſus</hi> therefore it need; muſt be, whom a little before, the Angel that was ſent, had called <hi>The Lord God of the Holy Prophets.</hi> And can any one now <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>nk, either that Chriſt, as a <hi>Good Man,</hi> w<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> have thus intruded himſelf into the Society of the Godhead; Or, That the <hi>JEALO<g ref="char:V">Ʋ</g>SY</hi> of God would ever have permitted ſuch clear intimations of our Saviours Divinity to be every where interſperſed in his own Books, if our bleſſed Saviour were not God?</p>
+            <p>Next then, The <hi>End</hi> for which the Re<g ref="char:EOLhyphen"/>velation was given him, is ſaid to be, <hi>To ſhew unto his Servants things that muſt ſhortly come to paſs;</hi> that is, ſhortly after the <hi>Writing</hi> of them by <hi>John</hi> ſay all In<g ref="char:EOLhyphen"/>terpreters hitherto that I have ſeen or heard of: concluding hence, That the Revelation (generally ſpeaking) is a Pro<g ref="char:EOLhyphen"/>phecy of things that were ſhortly after the Writing of them to begin to be fulfilled; and all of them to have their Completion ſpeedily, one after another; [<hi>See Dr.</hi> Ham<g ref="char:EOLhyphen"/>mond's <hi>Premonition to the Revelation, at the beginning.</hi>] And yet theſe Interpreters do All (for ought I know) extend the Prophe<g ref="char:EOLhyphen"/>cy to the very End of things. But on the contrary, 1. The Revelation ſpeaks as well of things then Preſent, <hi>Chap.</hi> i. 19. and things a long while After to come to paſs; as they themſelves aknowledge. Yea, and the chief things of all, and the Moſt too, are of theſe ſorts. And 2. There was nothing ever Shewn from the Revelation to be <hi>ſhortly</hi> to Come to paſs, which Muſt be the meaning of <hi>Shewn</hi> in that place. For to give out a Prophecy in Writing that no one can underſtand, till after its Comple<g ref="char:EOLhyphen"/>tion, cannot be ſaid to be, to <hi>ſhew</hi> us things
+<pb n="5" facs="tcp:109526:3"/>to come. It may <hi>ſpeak</hi> of <hi>things ſhortly to <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>omee to paſs,</hi> and <hi>ſhew,</hi> that the Author of the Writing fore-knew them; but it cannot be ſaid, to <hi>ſhew</hi> things ſhortly to come to paſs, to thoſe that underſtood no<g ref="char:EOLhyphen"/>thing by it till the things were Paſt. I give out this Prophecy (ſays Chriſt) to <hi>ſhew my Servants things ſhortly to come to paſs,</hi> that is, ſays Dr. <hi>Hammond,</hi> The De<g ref="char:EOLhyphen"/>ſtruction of <hi>Jeruſalem,</hi> with the enſuing Calamities on the People of the Jews. But (not to inſiſt, That theſe things had been ſhewn much plainer in the <hi>Goſpels, Mat.</hi> xxiv. <hi>Mar.</hi> xiii. <hi>Luke</hi> xxiv. (Whoever diſcovered the deſtruction of <hi>Jeruſalem</hi> in the Reve<g ref="char:EOLhyphen"/>lation before Dr. <hi>Hammond?</hi> Was then the <hi>Revelation</hi> given to <hi>ſhew</hi> the Dr. and thoſe of his Age, the deſtruction of <hi>Jeruſalem,</hi> and that under the notion of a thing <hi>ſhort<g ref="char:EOLhyphen"/>ly to come to paſs</hi> too? I cannot believe it! The plain meaning therefore of the Words is this, (which it is extreamly to be admired that no body has hit upon before) <hi>viz</hi> That the Revelation was given, from thence to <hi>ſhew</hi> unto the <hi>Servants</hi> of Chriſt, Some Certain things of great importance to the Church: ſo that they ſhould be able to foreſee them coming ſome little time before they were fulfilled; that is, to make the Servants of Chriſt <hi>Prophets.</hi> Againſt this Interpretation what can be objected, I cannot ſee; till ſome body will be ſo kind, as to make me ſenſible. But for Confirmation of it, is that which fol<g ref="char:EOLhyphen"/>lows, <hi>And he ſent, and ſignified</hi> Them (not It, as our Tranſlation has it) <hi>by his Angel, to his Servant</hi> John. Whereby is <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>mated, That the things for ſhewing of which chiefly the Revelation was gi<g ref="char:EOLhyphen"/>ven, are (not <hi>All</hi> the Revelation, which <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> no where ſaid to have been ſhewed by <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Angel;</hi> but) only thoſe things which towards the End of it are expreſly ſaid to <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ve been ſhewed to <hi>John</hi> by <hi>an Angel,</hi> diſpatcht from Chriſt to him for that pur<g ref="char:EOLhyphen"/>poſe, <hi>viz. The Viſion of the Bride, the Lambs Wife;</hi> Or, <hi>The now.</hi> Jeruſalem <hi>de<g ref="char:EOLhyphen"/>ſcending from God out of Heaven. No Pro<g ref="char:EOLhyphen"/>phecy is of any private Interpretation</hi> (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, of private impulſe; either as to Invention, or Interpretation) 2 <hi>Pet.</hi> i 20. If then the Spirit, as he is the Author, ſo muſt be the Interpreter of theſe Words, <hi>To ſhew unto his Servants things that muſt ſhortly co<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e to paſs; end he ſent and ſignified them by his Angel to his Servant John.</hi> How can it be expected, that he ſhould tell us plainer what things he means, than he has done, <hi>Rev.</hi> xxi. 9. &amp;c. and xxii. 6, 8, 10, 12, 16. Where an Angel comes to <hi>John,</hi> talks with him, and takes him aſide as it were on purpoſe to ſhew him great things; telling him withal, That he is <hi>ſent</hi> by the <hi>Lord God of the Holy Prophets (Chap.</hi> xxii. 6.) that is, by <hi>Jeſus, verſ.</hi> 16 <hi>to ſhew unto his Servants things that muſt ſhortly be done.</hi> (Need a<g ref="char:EOLhyphen"/>ny thing be plainer?) Whence I conclude, That the foreſhewing of thoſe things ſome little time before they came to paſs, was the chief end of this glorious Prophecy, The REVELATION.</p>
+            <p>The Second Verſe informs us, What <hi>John</hi> is here meant, to wit, the ſame, who in his Goſpel <hi>bare Record</hi> of the <hi>Word of God,</hi> and <hi>of the Teſtimony of Jeſus Chriſt;</hi> where <hi>And</hi> is taken Exegetically, as they ſpeak, <hi>viz.</hi> for <hi>that is.</hi> As if it had been ſaid, <hi>Who bare record of the Word of God; that is, of the Teſtimony of Je<g ref="char:EOLhyphen"/>ſus Chriſt,</hi> and of <hi>All</hi> the mighty <hi>Things which he ſaw</hi> Jeſus do in confirmation of his Teſtimony. This therefore is the <hi>A<g ref="char:EOLhyphen"/>poſtle</hi> John, the <hi>Beloved Diſciple,</hi> deſcrib'd in his own Phraſeology; as may be ſeen by comparing herewith his Goſpel and E<g ref="char:EOLhyphen"/>piſtles; where he ſo frequently uſes thoſe very Expreſſions, of <hi>bearing Record,</hi> and the like; and inſiſts much upon his being a <hi>preſent Witneſs</hi> of the <hi>Teſtimony of Jeſus Chriſt.</hi> And this alſo is another Enhan<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<g ref="char:EOLhyphen"/> of this Prophecy, <hi>viz.</hi> That it is derived from <hi>God</hi> to his <hi>Beloved Son,</hi> diſpatcht from
+<pb n="6" facs="tcp:109526:4"/>the <hi>Beloved Son</hi> to his <hi>Beloved Diſciple.</hi> And this Point will be much illuſtrated by com<g ref="char:EOLhyphen"/>paring it with what is ſaid, <hi>Dan.</hi> ix. 23. x. 11, 19.</p>
+            <p>The Third Verſe contains a formal de<g ref="char:EOLhyphen"/>nunciation of a Bleſſing to the <hi>Reader</hi> (that is, Interpreter, <hi>Iſa.</hi> xxix. 11) and to the <hi>Hearers,</hi> and <hi>Obſervers</hi> of this Prophecy; which is clear enough. But, Why is this added as the Reaſon, <hi>For the time is at hand?</hi> Of which no Man as yet, I think, has given any good Account. But the meaning is plainly this; For the time is now come, wherein this Prophecy was to be underſtood and rightly interpreted, or <hi>ſhewed</hi> to the <hi>Servants of Chriſt;</hi> ſo that they ſhould from thence perceive the <hi>things ſhortly to come to paſs,</hi> to wit, The Viſion declared by the Angel, in xxi and xxii Chapters of the Revelation aforementioned, to be Near upon fulfilling; which would be a Bleſſed thing to the Reader, Hearers, and Obſervers of this Prophecy. But to thoſe who lived at any great Diſtance from the time of its fulfilling, this Bleſſedneſs is not intended to belong; as is manifeſtly im<g ref="char:EOLhyphen"/>ported by the ſaid <hi>Reaſon,</hi> that is given for it. But then, In what reſpect is that time ſaid here to be near <hi>at hand?</hi> I anſwer, The Revelation is ſo contriv'd, that it was impoſſible to be underſtood without the help of that Angelical Expoſition of the Maſter-types, which is given us, <hi>Chap.</hi> xvii. This is plain of it ſelf; unleſs we think that the Angel there interprets them to no pur<g ref="char:EOLhyphen"/>poſe; when they might as well have been underſtood without it. But now we muſt obſerve, That the Angel, that explains thoſe Myſteries, is expreſly, noted to be <hi>One of the Angels that had the ſeven Vials,</hi> to pour out upon <hi>Babylon, Chap.</hi> xvii. 1. Whereby is ſignified, That till the <hi>Times</hi> of the <hi>Vials</hi> (or <hi>Laſt Plagues,</hi> as they are cal<g ref="char:EOLhyphen"/>led, <hi>Rev.</hi> xv. 1.) that Viſion of <hi>Rev.</hi> xvii. which is the <hi>Key</hi> to all the reſt, ſhould not be underſtood. This Promiſe therefore, <hi>Bleſſed is he that readeth</hi> (or interpreteth) <hi>&amp;c.</hi> could not take its true and juſt Effect, till the <hi>Times</hi> of the <hi>Vials,</hi> that is, of the Declenſion of the <hi>Babyloniſh</hi> Tyranny; whatever City we can imagin to be meant by <hi>Babylon.</hi> With reſpect to Thoſe Times therefore is that Promiſe to be underſtood, and not to any Times preceding the Vials. By all which we ſee, That this Prophecy ſhould lye dormant (as it were) till the time of the Vials; but that <hi>then</hi> our Bleſ<g ref="char:EOLhyphen"/>ſed Saviour would raiſe up ſuch as ſhould interpret it to his Servants, notwithſtan<g ref="char:EOLhyphen"/>ding all the oppoſition that ſhould be made by ſuch as would have the true meaning of the Prophecy to be ſeal'd, ſhut up, or ſtifled: For as when the Vial-Angels are ſaid to have brought ſeveral Plagues upon the ad<g ref="char:EOLhyphen"/>verſe party, <hi>Rev.</hi> xvi. we thence conclude, That therefore thoſe Plagues were really to come in the <hi>Time</hi> of the <hi>Vials:</hi> So when a Viſion is ſaid to have been ſhewed, or in<g ref="char:EOLhyphen"/>terpreted by a Vial Angel, we are as much oblig'd to inſer there-from, That therefore that Viſion was to be Really and Eventual<g ref="char:EOLhyphen"/>ly ſhewed or interpreted in the <hi>Vial-times.</hi> Thus then we ſee, the Revelation begins with addreſſing it ſelf to thoſe <hi>Times</hi> of the <hi>Vials,</hi> which were a little to precede the fulfilling of its Chief Viſion; when firſt it was to be underſtood; and in reſpect of which it bears the Title of A REVE<g ref="char:EOLhyphen"/>LATION. For while the Myſteries of it lay in Darkneſs, (as confeſſedly they did for many Ages, and were ſo ordain'd of God to do) it could not in any tolera<g ref="char:EOLhyphen"/>ble ſenſe be call'd A REVELATI<g ref="char:EOLhyphen"/>ON, (or a Book Unſealed) to thoſe A<g ref="char:EOLhyphen"/>ges.</p>
+            <p>
+               <hi>Objection.</hi> But if a <hi>Vial-Angel</hi>'s inter<g ref="char:EOLhyphen"/>preting the Myſteries of the xvii. Chapter is an intimation, That thoſe Myſteries could not be interpreted till the <hi>Times</hi> of the <hi>Vials.</hi> And if a <hi>Vial-Angel</hi>'s ſaying, <hi>Seal not the Prophecy,</hi> muſt be underſtood with reſpect to the <hi>Times</hi> of the <hi>Vials;</hi> then why muſt not a <hi>Vial-Angel</hi>'s Expoſition of the
+<pb n="7" facs="tcp:109526:4"/>
+               <hi>ſeven Kings, (Rev.</hi> xvii.) where he ſays, <hi>Five are faln, One is,</hi> &amp;c. be conceived to re<g ref="char:EOLhyphen"/>ſet to the <hi>Times</hi> of the <hi>Vials</hi> too; as mean<g ref="char:EOLhyphen"/>ing, <hi>One is</hi> Now in the <hi>Times</hi> of the <hi>Vials,</hi> which would unjoynt the whole Prophecy? I anſwer, The Angel ſpeaks thoſe Words, <hi>Five are faln, One is,</hi> &amp;c. as an <hi>Interpreter,</hi> and not as a <hi>Miniſter</hi> or <hi>Actor</hi> in the Vi<g ref="char:EOLhyphen"/>ſion; as appears from <hi>verſ.</hi> 7, 9. And there<g ref="char:EOLhyphen"/>fore he muſt be underſtood to regard the Time in which he <hi>Really</hi> ſpake the Words; for Otherwiſe his Interpretation would ſig<g ref="char:EOLhyphen"/>nifie nothing; for we ſhould ſtill be to ſeek, when the <hi>Times</hi> of the <hi>Vials</hi> were to be. But in ſaying, <hi>Seal not the Book, for the Time is at hand,</hi> he ſpeaks as a <hi>Miniſter</hi> or <hi>Actor</hi> in the Viſion, and muſt be under<g ref="char:EOLhyphen"/>ſtood <hi>myſtically, viz.</hi> with reſpect to the <hi>Part</hi> aſſigned to him in the Viſion. But further, we have this irrefragable Demon<g ref="char:EOLhyphen"/>ſtration, that the <hi>One is</hi> cannot be referr'd to the <hi>Myſtical Time (viz.</hi> the <hi>Time</hi> of the <hi>Vials</hi>) nor thoſe Words of our Saviour, <hi>Bleſſed is he that readeth,</hi> &amp;c. <hi>for the time is at hand</hi> (anſwering to thoſe of the An<g ref="char:EOLhyphen"/>gel, <hi>Seal not the Prophecy,</hi> that is, Read it, Interpret it, <hi>Iſa.</hi> xxix. 11. <hi>for the time is at hand</hi>) of the <hi>Real time</hi> that St. <hi>John</hi> liv'd in. For the <hi>One is,</hi> is the <hi>ſixth Head</hi> (or King.) After him is the <hi>ſeventh.</hi> After him again the <hi>Eighth;</hi> who alſo is called, <hi>The Beaſt that was, and is not.</hi> Together with This Beaſt, (or <hi>Eighth King</hi>) ariſe <hi>Ten</hi> other <hi>Kings,</hi> that for a time contribute their Power, and Strength, and Kingdom to him (that is, to the <hi>Whore,</hi> or <hi>Babylon,</hi> the City that he heads and rules in.) Af<g ref="char:EOLhyphen"/>ter this, the Friendſhip of thoſe Kings is turned to mortal Hatred. <hi>Theſe ſhall hate the Whore</hi> (ſays the Angel) <hi>and ſhall make her deſolate and naked, and ſhall eat her Fleſh, and burn her with Fire;</hi> that is, they ſhall pour out the Vials (or <hi>Laſt Plagues</hi>) upon her. All which is exceeding, clear beyond all poſſible Exception, from <hi>Rev.</hi> xvii. 10, 11, 12, 13, 16, 17, 18. From whence we ſee, That the Vials (or Laſt Plagues) whereby <hi>Babylon</hi> is to be deſtroy'd come not upon the Stage, till the Ten Kings, who are to deſtroy the Whore, be<g ref="char:EOLhyphen"/>gin to Hate her. Between which, and the <hi>One is,</hi> there is interpoſed all the time of the Confederacy of the Ten Kings with the Beaſt; and alſo, all the time of the ſeventh King: So that to ſay, That the <hi>One is</hi> (or <hi>Sixth King</hi>) belongs to the time of the <hi>Vials,</hi> how Abſurd were it! Wherefore the <hi>One is</hi> cannot poſſibly be referr'd to the <hi>Time</hi> of the <hi>Vials,</hi> or <hi>My<g ref="char:EOLhyphen"/>ſtical Time;</hi> but to the <hi>Real Time</hi> St. <hi>John</hi> liv'd in, to whom the words were ſpoken.</p>
+            <p>And on the other ſide, the Abſurdity of underſtanding thoſe words, [<hi>Bleſſed is he that readeth,</hi> &amp;c. (or <hi>ſeal not the Prophecy) for the time is at hand</hi>] of the <hi>Real Time</hi> St. <hi>John</hi> liv'd in, is altogether as groſs and palpable as the other. For it is confeſt on all hands, that this Prophecy was <hi>ſealed</hi> (if ever Prophecy in the World were ſeal'd) and could not be <hi>read</hi> (as a Prophecy or Declaration of Future, things) to any pur<g ref="char:EOLhyphen"/>poſe, for many Ages after. And the com<g ref="char:EOLhyphen"/>plaints of the skilfulleſt Divines of all Per<g ref="char:EOLhyphen"/>ſuaſions at this very day (to whom the obſcurity of theſe Myſteries is the pre<g ref="char:EOLhyphen"/>tended diſcouragement) are a ſufficient E<g ref="char:EOLhyphen"/>vidence of the undeniable Truth of that Aſſertion. Wherefore if thoſe paſſages can<g ref="char:EOLhyphen"/>not be underſtood of the <hi>Real Time</hi> St. <hi>John</hi> liv'd in, they muſt relate to the <hi>Myſtical Time</hi> of the Angel that ſpake them to him, conſider'd as an Actor in the Vials.</p>
+            <p>If you ſtill inſiſt, the Prophecy in Saint <hi>John</hi>'s time was <hi>written</hi> for any one to read (or underſtand) that could; I an<g ref="char:EOLhyphen"/>ſwer, ſo was <hi>Daniel</hi>'s in his time <hi>written</hi> too, which yet was commanded to be <hi>ſealed (Dan.</hi> xii. 4.) <hi>till the time of the end.</hi> It is not therefore the <hi>Writing,</hi> but the <hi>
+                  <g ref="char:V">Ʋ</g>nderſtanding</hi> of a Prophecy that Unſeals or Opens it. And This is Demonſtration by heap to a truly good Man, who is the only competent Judge of Diſcourſes of this nature, <hi>Dan.</hi> xii. 10. and who only can
+<pb n="8" facs="tcp:109526:5"/>receive Benefit by the Shewing of theſe Myſteries to him, <hi>Rev.</hi> xxi. 9. &amp;c. xxii. 11. Inſomuch that whoſo is Averſe to them, is manifeſtly deficient in one Symptom of true Goodneſs. And ſo much for the Ob<g ref="char:EOLhyphen"/>jection.</p>
+            <p>Laſtly then, as a Conſectary from what has been ſaid, we may obſerve, how very injudiciouſly thoſe Gentlemen, who make <hi>Rome Pagan</hi> (and not <hi>Papal</hi>) to be <hi>Babylon,</hi> have managed their Interpretations of theſe Viſions: For they all make the <hi>Vials</hi> to be emptied, and <hi>Babylon</hi> to have been de<g ref="char:EOLhyphen"/>ſtroy'd above a thouſand years ago; but all the while they ſhew no true Interpretation of the xvii. Chapter to have come abroad. For Every one of them appears at the head of a new pretended Expoſition of his own, ſo making <hi>Vial-Angels</hi> of Themſelves (un<g ref="char:EOLhyphen"/>ſent by Chriſt, becauſe Miſtiming their deſigns) with no better Authorities, and Ac<g ref="char:EOLhyphen"/>coutrements than (perhaps) ſome uſeleſs <hi>Re<g ref="char:EOLhyphen"/>liques</hi> of old Empty Vials.</p>
+            <p>But on the contrary, As for thoſe that take a Prejudice at the <hi>Proteſtant</hi> Expoſi<g ref="char:EOLhyphen"/>tions of this Prophecy upon the account of NOVELTY; theſe ſhew as much Unskilfulneſs and Injudiciouſneſs on the other hand. For according to the Pro<g ref="char:EOLhyphen"/>teſtant Scheme, the <hi>Vials</hi> are Now a pour<g ref="char:EOLhyphen"/>ing out; which hath been ſhewn to be the Proper Seaſon for interpreting the xviith. Chapter, That indiſputable <hi>Key</hi> of all the other Viſions. And as for the main Vi<g ref="char:EOLhyphen"/>ſion of all, <hi>viz.</hi> That of <hi>the Bride, the Lambs Wife,</hi> &amp;c. (when, her Enemies be<g ref="char:EOLhyphen"/>ing ſubdued, the Church ſhall be put in<g ref="char:EOLhyphen"/>to a moſt firm and laſting ſtate of Splendor and Tranquillity) that was to be fore<g ref="char:EOLhyphen"/>ſhew'd but a little while afore its coming to paſs, <hi>Rev.</hi> xxi. 9, &amp;c. xxii. 6, 7, 10, 12, 20. As therefore they who make <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Lamb's Wife</hi> to have been come abo<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> theſe Thouſand years in the ſtate ſhe <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> there deſcribed in; but do not ſhew h<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Coming <hi>predicted</hi> a little afore from the<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Viſions, know not what they ſpeak of<g ref="char:punc">▪</g> So we, who, being in expectation of a ſpeedy Accompliſhment of that great Re<g ref="char:EOLhyphen"/>volution, are offering every foot and anon ſome new Expoſition or other (one Right, another, Wrong; and all of us anew<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the matter, and according to the Ability that God giveth) act as conſiſtently with <hi>Our</hi> Hypotheſis, as the others inconſiſtently with theirs. For it is certain, That
+<q>
+                  <l>Ours muſt be <hi>New,</hi> if they be True:</l>
+                  <l>But Theirs, if True, cannot be New.</l>
+               </q> And ſo much for this time. If any thing here delivered be unſatisfactory or obſcure; upon Notice given, I do not queſtion, but (by God's Aſſiſtance) I ſhall clear it fully in the next Paper. In the mean time let the Reader that deſigns for any degree of Skilfulneſs in theſe Matters, take care to acquaint himſelf well with the xvii. Chap<g ref="char:EOLhyphen"/>ter (to which purpoſe my Expoſition of that Chapter, in want of a better, may be ſerviceable to him;) for that Chapter as hath been often ſaid (but nor Too often) is the <hi>Key</hi> to the whole Prophecy; and till we are agreed in the ſenſe of That, I cannot undertake to render any thing ſo Clear, as I could wiſh, to him. For I con<g ref="char:EOLhyphen"/>feſs, it is the height of my Ambition, to diſmiſs him at the laſt with all imaginable Satisfaction (ſuch as I have my ſelf, I ble<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> God for it) and to leave nothing in h<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> way, if poſſible, but Sun-beams to ſtumble at.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
